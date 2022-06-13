@@ -11,9 +11,12 @@ const Hero = () => (
         Stelios' Portfolio
       </SectionTitle>
       <SectionText>
-      An experienced Junior Web Developer, hard working student and employee.
+      An experienced Junior Web Developer, hard working student and employee. Having worked with companies all around Europe creating enterprise quality products.
       </SectionText>
-      {/* <Button onClick={() => window.location = 'https://google.com'}> Learn More</Button> */}
+      <SectionText>
+        Proud member of
+      </SectionText>
+      <Button onClick={() => window.location = 'https://www.superdevs.net'}> Superdevs Network</Button>
     </LeftSection>
   </Section>
 );

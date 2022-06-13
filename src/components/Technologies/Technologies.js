@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br/>
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      Experience with
+      Experienced with
     </SectionText>
     <List>
       <ListItem>
@@ -17,16 +17,16 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
           <ListParagraph>
-            React.js and plain JavaScript/CSS/HTML
+            React.js, Next.js, Tailwindcss, React Native and plain JavaScript/CSS/HTML
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size='3rem'/>
+        <DiFirebase size='2rem'/>
         <ListContainer>
           <ListTitle>Back-end</ListTitle>
           <ListParagraph>
-            Node.js and Databases( with MySQL and MongoDB)
+            Node.js, Flask (python), MySQL and Java
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -35,17 +35,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>CMS</ListTitle>
           <ListParagraph>
-            Drupal 7/8
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <DiCodeBadge size='3rem'/>
-        <ListContainer>
-          <ListTitle>Programming Languages</ListTitle>
-          <ListParagraph>
-            Java, C/C++, Python, Git & <br/>
-            JavaScript(+ Node.js, React.js, React Native)
+            Drupal 7/8, Adobe Experience Manager (AEM) and Sanity
           </ListParagraph>
         </ListContainer>
       </ListItem>
